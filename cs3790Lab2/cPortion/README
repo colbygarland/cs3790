@@ -1,0 +1,11 @@
+README for Lab2 cs3790
+
+Author: Colby Garland
+Lab2
+
+Purpose: Lab 2 finds primes from 1 to N using M threads, where N and M are user entered.
+
+To compile, link and run program: cd into top level directory of lab2
+Type "make" 
+
+To run, type "./prog <value of N> <# of threads>"

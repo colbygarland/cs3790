@@ -1,0 +1,13 @@
+README for assignment 2 (java threads) cs3790
+
+Author: Colby Garland
+Assignment 2
+
+Purpose: Assignment 2 implements the reader/writer problem using java threads/semaphores.
+
+To compile, link and run program: cd into directory readWrite/javaPart
+Type "make" 
+
+To run, type java readWrite
+
+GIT url: https://github.com/colbygarland/readWrite.git

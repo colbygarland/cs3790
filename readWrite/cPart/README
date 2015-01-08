@@ -1,0 +1,14 @@
+README for assignment 2 cs3790
+
+Author: Colby Garland
+Assignment 2
+
+Purpose: Assignment 2 implements the reader/writer problem using pthreads.
+
+To compile, link and run program: cd into readWrite/cPart
+
+Type "make" 
+
+To run, type ./prog
+
+GIT url: https://github.com/colbygarland/readWrite.git

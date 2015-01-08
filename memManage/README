@@ -1,0 +1,16 @@
+README for assignment 4 cs3790
+
+Author: Colby Garland id# 5034957
+Assignment 4
+
+Purpose: Assignment 4 implements memory management simulation
+
+To compile, link and run program: cd into top level directory of assign4
+Type "make" 
+
+To run, type ./prog
+
+git URL: https://github.com/colbygarland/memManage.git
+
+
+
